@@ -1,0 +1,18 @@
+div{
+    background-color: cadetblue;
+    padding: 10px;
+    border: 2px solid black
+    ;
+}
+.first{
+    opacity: 0.1;
+}
+.second {
+    opacity: 0.3;
+}
+.third {
+    opacity: 0.6;
+}
+.four {
+    opacity: 1;
+}
